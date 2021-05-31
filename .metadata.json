@@ -1,14 +1,14 @@
 [
   {
+    "package": "rainette",
+    "oncran": true
+  },
+  {
     "package": "explor",
     "oncran": true
   },
   {
     "package": "questionr",
-    "oncran": true
-  },
-  {
-    "package": "rainette",
     "oncran": true
   },
   {

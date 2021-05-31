@@ -1,8 +1,13 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/juba/universe
 	shallow = true
 	branch = HEAD
+[submodule "rainette"]
+	path = rainette
+	url = https://github.com/juba/rainette
+	shallow = true
+	registered = true
 [submodule "explor"]
 	path = explor
 	url = https://github.com/juba/explor
@@ -11,11 +16,6 @@
 [submodule "questionr"]
 	path = questionr
 	url = https://github.com/juba/questionr
-	shallow = true
-	registered = true
-[submodule "rainette"]
-	path = rainette
-	url = https://github.com/juba/rainette
 	shallow = true
 	registered = true
 [submodule "rmdformats"]
@@ -30,7 +30,7 @@
 	registered = true
 [submodule "scatterD3"]
 	path = scatterD3
-	url = https://github.com/juba/scatterd3
+	url = https://github.com/juba/scatterD3
 	shallow = true
 	registered = true
 [submodule "shinyglide"]
