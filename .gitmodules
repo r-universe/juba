@@ -3,3 +3,38 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "explor"]
+	path = explor
+	url = https://github.com/juba/explor
+	shallow = true
+	registered = true
+[submodule "questionr"]
+	path = questionr
+	url = https://github.com/juba/questionr
+	shallow = true
+	registered = true
+[submodule "rainette"]
+	path = rainette
+	url = https://github.com/juba/rainette
+	shallow = true
+	registered = true
+[submodule "rmdformats"]
+	path = rmdformats
+	url = https://github.com/juba/rmdformats
+	shallow = true
+	registered = true
+[submodule "robservable"]
+	path = robservable
+	url = https://github.com/juba/robservable
+	shallow = true
+	registered = true
+[submodule "scatterD3"]
+	path = scatterD3
+	url = https://github.com/juba/scatterd3
+	shallow = true
+	registered = true
+[submodule "shinyglide"]
+	path = shinyglide
+	url = https://github.com/juba/shinyglide
+	shallow = true
+	registered = true

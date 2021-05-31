@@ -1,0 +1,30 @@
+[
+  {
+    "package": "explor",
+    "oncran": true
+  },
+  {
+    "package": "questionr",
+    "oncran": true
+  },
+  {
+    "package": "rainette",
+    "oncran": true
+  },
+  {
+    "package": "rmdformats",
+    "oncran": true
+  },
+  {
+    "package": "robservable",
+    "oncran": true
+  },
+  {
+    "package": "scatterD3",
+    "oncran": true
+  },
+  {
+    "package": "shinyglide",
+    "oncran": true
+  }
+]
