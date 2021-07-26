@@ -38,3 +38,8 @@
 	url = https://github.com/juba/shinyglide
 	shallow = true
 	registered = true
+[submodule "obsplot"]
+	path = obsplot
+	url = https://github.com/juba/obsplot
+	shallow = true
+	registered = true

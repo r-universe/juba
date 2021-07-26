@@ -26,5 +26,8 @@
   {
     "package": "shinyglide",
     "oncran": true
+  },
+  {
+    "package": "obsplot"
   }
 ]
