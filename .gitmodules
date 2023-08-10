@@ -2,15 +2,18 @@
 	path = .registry
 	url = https://github.com/juba/universe
 	branch = HEAD
-[submodule "rainette"]
-	path = rainette
-	url = https://github.com/juba/rainette
 [submodule "explor"]
 	path = explor
 	url = https://github.com/juba/explor
+[submodule "obsplot"]
+	path = obsplot
+	url = https://github.com/juba/obsplot
 [submodule "questionr"]
 	path = questionr
 	url = https://github.com/juba/questionr
+[submodule "rainette"]
+	path = rainette
+	url = https://github.com/juba/rainette
 [submodule "rmdformats"]
 	path = rmdformats
 	url = https://github.com/juba/rmdformats
@@ -23,6 +26,3 @@
 [submodule "shinyglide"]
 	path = shinyglide
 	url = https://github.com/juba/shinyglide
-[submodule "obsplot"]
-	path = obsplot
-	url = https://github.com/juba/obsplot
