@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/juba/universe
+	url = https://github.com/juba/juba.r-universe.dev
 	branch = HEAD
 [submodule "explor"]
 	path = explor
